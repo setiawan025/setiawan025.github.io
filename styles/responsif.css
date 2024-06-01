@@ -18,6 +18,7 @@
   .burger {
     display: block;
     cursor: pointer;
+    z-index: 9;
   }
 
   .toggle-burger .line-1 {
